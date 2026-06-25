@@ -1,0 +1,13 @@
+# Arquivos gerados pelo script
+precos_coletados.csv
+precos_coletados.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
